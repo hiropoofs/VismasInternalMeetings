@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ERidGUXJ0czlRGQB6ZTFHk6jV56fBj4SgfKSdTUEU9hR8OknWqKV0TJTGEzxNzzJV6oQ/n/IXcCywF1I22syCQ==",
+  "success": true,
+  "projectFilePath": "O:\\Semestras4\\OP2\\K2\\K2 Pavyzdys\\New folder\\InternalMeetingsProjectVisma\\InternalMeetings\\InternalMeetings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssims\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\bin\Debug\net6.0\InternalMeetings.exe
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\bin\Debug\net6.0\InternalMeetings.deps.json
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\bin\Debug\net6.0\InternalMeetings.runtimeconfig.json
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\bin\Debug\net6.0\InternalMeetings.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\bin\Debug\net6.0\InternalMeetings.pdb
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\bin\Debug\net6.0\Newtonsoft.Json.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\InternalMeetings.csproj.AssemblyReference.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\InternalMeetings.GeneratedMSBuildEditorConfig.editorconfig
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\InternalMeetings.AssemblyInfoInputs.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\InternalMeetings.AssemblyInfo.cs
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\InternalMeetings.csproj.CoreCompileInputs.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\InternalMeetings.csproj.CopyComplete
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\InternalMeetings.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\refint\InternalMeetings.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\InternalMeetings.pdb
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\InternalMeetings.genruntimeconfig.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\InternalMeetings\InternalMeetings\obj\Debug\net6.0\ref\InternalMeetings.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\bin\Debug\net6.0\InternalMeetings.exe
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\bin\Debug\net6.0\InternalMeetings.deps.json
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\bin\Debug\net6.0\InternalMeetings.runtimeconfig.json
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\bin\Debug\net6.0\InternalMeetings.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\bin\Debug\net6.0\InternalMeetings.pdb
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\bin\Debug\net6.0\Newtonsoft.Json.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\InternalMeetings.csproj.AssemblyReference.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\InternalMeetings.GeneratedMSBuildEditorConfig.editorconfig
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\InternalMeetings.AssemblyInfoInputs.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\InternalMeetings.AssemblyInfo.cs
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\InternalMeetings.csproj.CoreCompileInputs.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\InternalMeetings.csproj.CopyComplete
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\InternalMeetings.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\refint\InternalMeetings.dll
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\InternalMeetings.pdb
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\InternalMeetings.genruntimeconfig.cache
+O:\Semestras4\OP2\K2\K2 Pavyzdys\New folder\InternalMeetingsProjectVisma\InternalMeetings\obj\Debug\net6.0\ref\InternalMeetings.dll
